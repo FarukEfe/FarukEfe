@@ -10,7 +10,7 @@ I have a deep passion in software for computational biology and computer vision.
 - 👯 I’m looking to build an open-source portfolio, so hit me up for any interesting projects.
 
 <div align="center" justify="center" display="flex">
-  <img alt="my stats" align="left" width="66.5%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
-  <img alt="my langs" align="left" width="29.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
+  <img alt="my stats" align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
+  <img alt="my langs" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
 </div>
 <!-- <img alt="my waka" src="https://github-readme-stats.vercel.app/api/wakatime?username=FarukEfe"> -->
