@@ -14,4 +14,6 @@ I have a deep passion in software for computational biology and computer vision.
   <img alt="my langs" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
 </div>
 
+\newline
+
 (Newbie stats I've been busy, allow me to cook this summer 🔥🔥)
