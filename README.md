@@ -13,4 +13,5 @@ I have a deep passion in software for computational biology and computer vision.
   <img alt="my stats" align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
   <img alt="my langs" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
 </div>
-<!-- <img alt="my waka" src="https://github-readme-stats.vercel.app/api/wakatime?username=FarukEfe"> -->
+
+(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)
