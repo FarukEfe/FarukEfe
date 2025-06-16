@@ -9,11 +9,9 @@ I have a deep passion in software for computational biology and computer vision.
 - 🌱 I’m currently learning more about computer vision, deep neural networks, and natural language processing. Also participating in RoboMaster RMUL 2025 (check us out [here](https://macrobomaster.com/))
 - 👯 I’m looking to build an open-source portfolio, so hit me up for any interesting projects.
 
-<div align="center" justify="center" display="flex">
-  <img alt="my stats" align="left" width="65%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
-  <img alt="my langs" align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
-</div>
+<center width="100%">
+  <img alt="my stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
+  <img alt="my langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
+</center>
 
-\newline
-
-(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)
+<div width="100%">(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)</div>
