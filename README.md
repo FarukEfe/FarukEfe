@@ -6,7 +6,7 @@ I have a deep passion in software for computational biology and computer vision.
   - refining and improving the metabolic network model for two algae organisms which are *Chlamydomonas reinhardtii* and *Chlorella sorokiniana* (removing EGCS, Mass-balance, Genome Annotations)
   - running the flux-balance and variability analysis to determine potential autotrophic pathway modifications using NumPy, COBRApy
   - working on a full-stack software for small-scale laboratories to manage deadlines, projects, and inventory. Front-end: React + TypeScript + Next.js | Back-end: PostgreSQL (via Supabase)
-- 🌱 I’m currently learning more about computer vision, deep neural networks, and natural language processing. Also participating in RoboMaster RMUL 2025 (check us out [here](https://macrobomaster.com/))
+- 🌱 I’m currently learning more about computer vision, deep neural networks, and natural language processing. Also participating in RoboMaster RMUL 2025 (check us out: [MacFalcon](https://macrobomaster.com/))
 - 🖥️ Languages 🖥️ ... Python | JavaScript | TypeScript | Swift | C/C++ | MATLAB
 - 👯 I’m looking to build an open-source portfolio, so hit me up for any interesting projects.
 
