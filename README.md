@@ -2,7 +2,7 @@
 
 I have a deep passion in software for computational biology and computer vision. I'm currently a Computer Science CO-OP III student at McMaster. Here's some things about me:
 
-- 🦠 iGEM 🦠 ... I've first participate in the International Genetically Engineered Machine (iGEM) competition in 2021 as a dry-lab researcher and web developer for team: [Saint_Joseph](https://teams.igem.org/3941). Currently, I'm working as a dry-lab modeling researcher and software developer at team: [McMasterU](https://teams.igem.org/5688). Some tasks include:
+- 🦠 iGEM 🦠 ... I've first participated in the International Genetically Engineered Machine (iGEM) competition in 2021 as a dry-lab researcher and web developer for team: [Saint_Joseph](https://teams.igem.org/3941). Currently, I'm working as a dry-lab modeling researcher and software developer at team: [McMasterU](https://teams.igem.org/5688). Some tasks include:
   - refining and improving the metabolic network model for two algae organisms which are *Chlamydomonas reinhardtii* and *Chlorella sorokiniana* (removing EGCS, Mass-balance, Genome Annotations)
   - running the flux-balance and variability analysis to determine potential autotrophic pathway modifications using NumPy, COBRApy
   - working on a full-stack software for small-scale laboratories to manage deadlines, projects, and inventory. Front-end: React + TypeScript + Next.js | Back-end: PostgreSQL (via Supabase)
