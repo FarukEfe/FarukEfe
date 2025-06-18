@@ -61,6 +61,8 @@ I have a deep passion in software for computational biology and computer vision.
   <img height="40px" src="https://github.com/user-attachments/assets/3a542c3c-c42e-4a1d-b635-ea44965ce9d4">
 </div>
 
+<!-- This line is used for separate --> 
+###
 <!-- Stats -->
 
 <div display="flex" align="center" width="100%">
