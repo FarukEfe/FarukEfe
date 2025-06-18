@@ -17,3 +17,17 @@ I have a deep passion in software for computational biology and computer vision.
 </div>
 
 <div width="100%">(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)</div>
+
+<div display="flex">
+  <img width="50px" src="https://github.com/user-attachments/assets/e8f203f6-12cc-4193-b1f6-c4d0db89342a">
+  <img width="50px" src="https://github.com/user-attachments/assets/dc86a161-e2f3-49a8-833f-c4bed1d485ec">
+  <img width="50px" src="https://github.com/user-attachments/assets/76f660a6-a2cf-4be2-b437-fba59d49d6e8">
+  <img width="50px" src="https://github.com/user-attachments/assets/fc4d7145-5cd8-4248-9c6d-0265e53a446f">
+  <img width="50px" src="https://github.com/user-attachments/assets/6ab0a4b4-de11-4de7-8d1b-72355c660746">
+  <img width="50px" src="https://github.com/user-attachments/assets/175afa40-ced1-48b5-b8fe-306319eea5fe">
+  <img width="50px" src="https://github.com/user-attachments/assets/5318eac9-769c-438b-b90d-e07824b2041d">
+  <img width="50px" src="https://github.com/user-attachments/assets/06df0fb5-ac20-4edd-9399-b5a7ab4b9392">
+  <img width="50px" src="https://github.com/user-attachments/assets/2e87c98e-1c96-493d-99b4-0232a6847fe6">
+  <img width="50px" src="https://github.com/user-attachments/assets/8701fad9-6d80-475e-8d2b-09fdd7ddcb90">
+  <img width="50px" src="https://github.com/user-attachments/assets/f1533673-cd63-4e19-b836-5a70b41bf776">
+</div>
