@@ -1,4 +1,4 @@
-## Hi, this is Efe!
+## Hey there,
 
 I have a deep passion in software for computational biology and computer vision. I'm currently a Computer Science CO-OP III student at McMaster. Here's some things about me:
 
