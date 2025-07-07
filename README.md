@@ -1,15 +1,19 @@
 ## Hey there,
 
-I have a deep passion in software for computational biology and computer vision. I'm currently a Computer Science CO-OP III student at McMaster. Here's some things about me:
+I have a deep passion in software for bioinformatics and computer vision. I'm currently a Computer Science CO-OP III student at McMaster. Here's some things about me:
 
-- 🦠 iGEM 🦠 ... I've first participated in the International Genetically Engineered Machine (iGEM) competition in 2021 as a dry-lab researcher and web developer for team: [Saint_Joseph](https://teams.igem.org/3941). Currently, I'm working as a dry-lab modeling researcher and software developer at team: [McMasterU](https://teams.igem.org/5688). Some tasks include:
+🦠 iGEM 🦠 ... I've first participated in the International Genetically Engineered Machine (iGEM) competition in 2021 as a dry-lab researcher and web developer for team: [Saint_Joseph](https://teams.igem.org/3941). Currently, I'm working as a dry-lab modeling researcher and software developer at team: [McMasterU](https://teams.igem.org/5688). Some tasks include:
   - refining and improving the metabolic network model for two algae organisms which are *Chlamydomonas reinhardtii* and *Chlorella sorokiniana* (removing EGCS, Mass-balance, Genome Annotations)
   - running the flux-balance and variability analysis to determine potential autotrophic pathway modifications using NumPy, COBRApy
   - working on a full-stack software for small-scale laboratories to manage deadlines, projects, and inventory. Front-end: React + TypeScript + Next.js | Back-end: PostgreSQL (via Supabase)
-- 🌱 I’m currently learning more about computer vision, deep neural networks, and natural language processing. Also participating in RoboMaster RMUL 2025 (check us out: [MacFalcon](https://macrobomaster.com/))
-- 🖥️ Languages 🖥️ ... Python | JavaScript | TypeScript | Swift | C/C++ | MATLAB | Java | Elm (Haskell but slower, needed to learn for a course but I think FP is pretty neat overall)
-- 🌱 Still learning 🌱 ... Go | Rust (this is the future) | Solidity (dk wanted to learn crypto)
-- 👯 I’m looking to build an open-source portfolio, so hit me up for any interesting projects.
+
+🌱 I’m currently learning more about computer vision, deep neural networks, and natural language processing. Also participating in RoboMaster RMUL 2025 (check us out: [MacFalcon](https://macrobomaster.com/))
+
+🖥️ Languages 🖥️ ... Python | JavaScript | TypeScript | Swift | C/C++ | MATLAB | Java | Elm (Haskell but slower)
+
+🌱 Future plans 🌱 ... 
+  - Learn Go | Rust | Solidity
+  - Improve full-stack and ML portfolio (open to inquiries involving related project ideas)
 
 ### Experienced with ...
 
@@ -45,6 +49,7 @@ I have a deep passion in software for computational biology and computer vision.
   <img height="40px" src="https://github.com/user-attachments/assets/01d7b68d-c5f7-456e-9a80-36163e014235">
 </div>
 
+<!-- 
 ### Learning ...
 
 ###### Languages
@@ -60,6 +65,7 @@ I have a deep passion in software for computational biology and computer vision.
   <img height="40px" src="https://github.com/user-attachments/assets/8cc068d3-ac5b-4c6c-bba7-3064adb7f51c">
   <img height="40px" src="https://github.com/user-attachments/assets/3a542c3c-c42e-4a1d-b635-ea44965ce9d4">
 </div>
+-->
 
 <!-- This line is used for separate --> 
 ###
