@@ -76,7 +76,7 @@ I have a deep passion in software for bioinformatics and computer vision. I'm cu
   <img alt="my langs" width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
 </div>
 
-**<div width="100%">(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)</div>**
+<!-- **<div width="100%">(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)</div>** -->
 
 <!--
   ![xcode](https://github.com/user-attachments/assets/9ceee375-7ccd-4842-96fe-3c688bafc87f)
