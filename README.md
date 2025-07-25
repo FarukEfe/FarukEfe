@@ -15,6 +15,8 @@ I have a deep passion in software for bioinformatics and computer vision. I'm cu
   - Learn Go | Rust | Solidity
   - Improve full-stack and ML portfolio (open to inquiries involving related project ideas)
 
+<!--
+
 ### Experienced with ...
 
 ###### Languages
@@ -49,6 +51,8 @@ I have a deep passion in software for bioinformatics and computer vision. I'm cu
   <img height="40px" src="https://github.com/user-attachments/assets/01d7b68d-c5f7-456e-9a80-36163e014235">
 </div>
 
+-->
+
 <!-- 
 ### Learning ...
 
@@ -71,10 +75,12 @@ I have a deep passion in software for bioinformatics and computer vision. I'm cu
 ###
 <!-- Stats -->
 
+<!--
 <div display="flex" align="center" width="100%">
   <img alt="my stats" width="62.5%" src="https://github-readme-stats.vercel.app/api?username=FarukEfe&theme=cobalt&show_icons=true">
   <img alt="my langs" width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarukEfe&theme=cobalt&hide_progress=false">
 </div>
+-->
 
 <!-- **<div width="100%">(Newbie stats I've been busy, allow me to cook this summer 🔥🔥)</div>** -->
 
