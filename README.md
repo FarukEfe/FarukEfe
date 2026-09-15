@@ -12,7 +12,7 @@
 
 ---
 
-- 🧬 VP at [McMaster SynBio](https://www.mcmastersynbio.ca/), currently building a platform for genome-scale metabolic models
+- 🧬 VP at [McMaster SynBio](https://www.mcmastersynbio.ca/), currently working on structural bioinformatics, and general project management.
 - 💼 AI Engineer Intern @ HAVELSAN: deep learning for trajectory prediction of ships and aircraft
 - 💼 Cyberserucity Intern @ Stealth Startup: pentesting tooling + B2B software for supply-chain.
 - 💼 Software Engineer Intern @ ROKETSAN: avionics software unit
