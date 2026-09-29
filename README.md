@@ -13,9 +13,9 @@
 ---
 
 - 🧬 VP at [McMaster SynBio](https://www.mcmastersynbio.ca/), currently working on structural bioinformatics, and general project management.
-- 💼 AI Engineer Intern @ HAVELSAN: deep learning for trajectory prediction of ships and aircraft
+- 💼 AI Engineer Intern @ [HAVELSAN](https://www.havelsan.com/en): deep learning for trajectory prediction of ships and aircraft
 - 💼 Cyberserucity Intern @ Stealth Startup: pentesting tooling + B2B software for supply-chain.
-- 💼 Software Engineer Intern @ ROKETSAN: avionics software unit
+- 💼 Software Engineer Intern @ [ROKETSAN](https://www.roketsan.com.tr/en): avionics software unit
 - 🌱 Interested in software safety and verification, computational biology, and AI
 
 ### Competitions
@@ -33,7 +33,7 @@
 | [mcmastersynbio.ca](https://www.mcmastersynbio.ca/) | The team website. I built it and keep it running |
 | [RNA Thermosensor Designer](https://github.com/McMasterSynBio/RNAt-feedback-design) | Designs temperature-sensing RNA switches. Has an [ML activity predictor](https://github.com/McMasterSynBio/rnat-activity-ml) to go with it |
 | [Ergosterol Overproduction GSM](https://github.com/FarukEfe/cre-ergosterol-gsm) | Genome-scale metabolic model of *C. reinhardtii*, from our iGEM 2025 project |
-| [LIMS](https://github.com/Yongsoo-Cho/LIMS-Demo) | Inventory system for the team's lab |
+| [LIMS](https://github.com/Yongsoo-Cho/LIMS-Demo) | Inventory system for small R&D teams |
 
 ### Other builds
 
