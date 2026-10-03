@@ -30,7 +30,7 @@
 |---|---|
 | [iGEM 2025 team wiki](https://2025.igem.wiki/mcmasteru/) | Our *Sterosaurus* wiki, permanently archived by iGEM |
 | [IDEC 2026 team wiki](https://github.com/McMasterSynBio/mcmasteru-idec-2026-wiki) | In progress for Cambridge |
-| [mcmastersynbio.ca](https://www.mcmastersynbio.ca/) | The team website. I built it and keep it running |
+| [mcmastersynbio.ca](https://www.mcmastersynbio.ca/) | The team website. |
 | [RNA Thermosensor Designer](https://github.com/McMasterSynBio/RNAt-feedback-design) | Designs temperature-sensing RNA switches. Has an [ML activity predictor](https://github.com/McMasterSynBio/rnat-activity-ml) to go with it |
 | [Ergosterol Overproduction GSM](https://github.com/FarukEfe/cre-ergosterol-gsm) | Genome-scale metabolic model of *C. reinhardtii*, from our iGEM 2025 project |
 | [LIMS](https://github.com/Yongsoo-Cho/LIMS-Demo) | Inventory system for small R&D teams |
