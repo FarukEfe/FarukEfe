@@ -20,7 +20,7 @@
 
 ### Competitions
 
-- **IDEC 2026** (Cambridge, UK): leading McMaster SynBio's entry as VP
+- **IDEC 2026** (Cambridge, UK): Placed 3rd overall with (1) best wiki award (2) funniest evolution nomination (3) best presentation nomination. Silver medal category. Lead McMaster SynBio's entry as VP. [team wiki](https://idec-teams.github.io/2026_McMasterU/)
 - **iGEM 2025** (Paris, France): metabolic modelling and the [team wiki](https://2025.igem.wiki/mcmasteru) for our project *Sterosaurus*
 - **iGEM 2021** (Remote): my first synbio competition, back in high school with team:Saint-Joseph. [team wiki](https://2021.igem.org/Team:Saint_Joseph)
 
