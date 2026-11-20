@@ -14,8 +14,8 @@
 
 - 🧬 VP at [McMaster SynBio](https://www.mcmastersynbio.ca/), currently working on structural bioinformatics, and general project management.
 - 💼 AI Engineer Intern @ [HAVELSAN](https://www.havelsan.com/en): deep learning for trajectory prediction of ships and aircraft
-- 💼 Cyberserucity Intern @ Stealth Startup: B2B supply-chain software. ISO 27001 and 9001 audits.
 - 💼 Software Engineer Intern @ [ROKETSAN](https://www.roketsan.com.tr/en): avionics software unit
+<!-- - 💼 Cyberserucity Intern @ Stealth Startup: B2B supply-chain software. ISO 27001 and 9001 audits. -->
 - 🌱 Interested in software safety and verification, computational biology, and AI
 
 ### Competitions
