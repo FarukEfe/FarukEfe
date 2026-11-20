@@ -14,7 +14,7 @@
 
 - 🧬 VP at [McMaster SynBio](https://www.mcmastersynbio.ca/), currently working on structural bioinformatics, and general project management.
 - 💼 AI Engineer Intern @ [HAVELSAN](https://www.havelsan.com/en): deep learning for trajectory prediction of ships and aircraft
-- 💼 Cyberserucity Intern @ Stealth Startup: pentesting tooling + B2B software for supply-chain.
+- 💼 Cyberserucity Intern @ Stealth Startup: B2B supply-chain software. ISO 27001 and 9001 audits.
 - 💼 Software Engineer Intern @ [ROKETSAN](https://www.roketsan.com.tr/en): avionics software unit
 - 🌱 Interested in software safety and verification, computational biology, and AI
 
@@ -29,7 +29,7 @@
 | | |
 |---|---|
 | [iGEM 2025 team wiki](https://2025.igem.wiki/mcmasteru/) | Our *Sterosaurus* wiki, permanently archived by iGEM |
-| [IDEC 2026 team wiki](https://github.com/McMasterSynBio/mcmasteru-idec-2026-wiki) | In progress for Cambridge |
+| [IDEC 2026 team wiki](https://idec-teams.github.io/2026_McMasterU/) | In progress for Cambridge |
 | [mcmastersynbio.ca](https://www.mcmastersynbio.ca/) | The team website. |
 | [RNA Thermosensor Designer](https://github.com/McMasterSynBio/RNAt-feedback-design) | Designs temperature-sensing RNA switches. Has an [ML activity predictor](https://github.com/McMasterSynBio/rnat-activity-ml) to go with it |
 | [Ergosterol Overproduction GSM](https://github.com/FarukEfe/cre-ergosterol-gsm) | Genome-scale metabolic model of *C. reinhardtii*, from our iGEM 2025 project |
